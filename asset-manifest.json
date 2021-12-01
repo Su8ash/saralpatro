@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/saralpatro/static/css/main.58315767.chunk.css",
+    "main.js": "/saralpatro/static/js/main.8d863453.chunk.js",
+    "main.js.map": "/saralpatro/static/js/main.8d863453.chunk.js.map",
+    "runtime-main.js": "/saralpatro/static/js/runtime-main.ccb6f473.js",
+    "runtime-main.js.map": "/saralpatro/static/js/runtime-main.ccb6f473.js.map",
+    "static/js/2.d6d3ea7c.chunk.js": "/saralpatro/static/js/2.d6d3ea7c.chunk.js",
+    "static/js/2.d6d3ea7c.chunk.js.map": "/saralpatro/static/js/2.d6d3ea7c.chunk.js.map",
+    "index.html": "/saralpatro/index.html",
+    "static/css/main.58315767.chunk.css.map": "/saralpatro/static/css/main.58315767.chunk.css.map",
+    "static/js/2.d6d3ea7c.chunk.js.LICENSE.txt": "/saralpatro/static/js/2.d6d3ea7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccb6f473.js",
+    "static/js/2.d6d3ea7c.chunk.js",
+    "static/css/main.58315767.chunk.css",
+    "static/js/main.8d863453.chunk.js"
+  ]
+}
