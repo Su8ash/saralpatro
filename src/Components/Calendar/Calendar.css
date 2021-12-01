@@ -1,0 +1,63 @@
+.mainContainer{
+    /* background-color: red; */
+}
+
+.header{
+    text-align: center;
+}
+
+.sub-header{
+    display: flex;
+    text-align: center;
+    /* background-color: aqua; */
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex-d{
+    display: flex;
+}
+
+.selectOption{
+    /* background-color: red; */
+    border-radius: 8px;
+    padding: 8px 6px 4px 6px;
+}
+
+.options{
+    margin: 0px 0px 0px 50px;
+}
+
+table,  td {
+  border: 1px solid  #dee2e6;
+  border-collapse: collapse;
+}
+
+th{
+    border-right:  1px solid  #dee2e6;
+    /* border-bottom: 1px solid  #dee2e6; */
+    border-left:   1px solid   #dee2e6;
+}
+
+.calendar-day{
+    height: 100px;
+    /* background-color: red; */
+}
+
+.tithi{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: rgba(0, 0, 0, 0.4);
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.eng-date{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    /* color: rgba(0, 0, 0, 0.4); */
+    font-weight: bold;
+    font-size: 11px;
+}
